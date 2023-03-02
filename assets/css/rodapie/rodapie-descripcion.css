@@ -1,7 +1,6 @@
 .rodapie__descripcion{
-    display: flex;
+    display:flex;
     font-size: 2rem;
     margin-left: 5rem;
-    color: #8c8888;
-    
+    color: #8C8888;
 }
