@@ -2,7 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+<<<<<<< HEAD
     padding-top:5rem;
     padding-left: 2rem;
     padding-right: 2rem;
+=======
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+>>>>>>> a09c5205bf75bff0106f16731067c273a4c73f9e
 }
